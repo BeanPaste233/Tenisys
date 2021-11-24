@@ -1,0 +1,4 @@
+displayName = Tenisys
+author = BeanPaste
+version = 0.1
+side = both

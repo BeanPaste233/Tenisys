@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ub6ROAlHFl0q/h9byag6u5VGPs4W3/gvNw1thMKx0GCB25PWuZXOso4FyLruXSfcELGdUh7zDehOKjLHCmLsDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BeanPaste\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Tenisys\\Tenisys.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BeanPaste\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
